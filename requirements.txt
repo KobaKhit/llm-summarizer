@@ -1,0 +1,1 @@
+langchain openai huggingface_hub tabulate tqdm sentence_transformers faiss-cpu accelerate torch==1.13.1
