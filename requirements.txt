@@ -10,3 +10,4 @@ accelerate
 torch==1.13.1
 pandas
 tiktoken
+altair
